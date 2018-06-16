@@ -1,3 +1,23 @@
+
+.pleca {
+  background-image: url(../img/blue-pattern.png);
+  height: 60px; }
+
+.imgytexto {
+  text-align: center;
+  margin-top: 5%; }
+
+.imgytextodos {
+  text-align: center;
+  margin-top: 2%; }
+
+.piedepagina {
+  background-color: #DCDCDC;
+  margin-top: 5%; }
+
+.subtitulos {
+  margin-top: 3%; }
+
 #infinity {
   height: 10px; }
 
@@ -57,5 +77,6 @@ hr {
   background-image: url(../img/grey-pattern.png);
   height: 400px;
   text-align: center; }
+
 
 /*# sourceMappingURL=style.css.map */
